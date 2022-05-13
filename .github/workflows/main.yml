@@ -48,7 +48,7 @@ jobs:
         uses: docker/login-action@v1
         with:
           username: <nasretdinov>
-          password: <@Yydd6o0W!#$>
+          password: <@3N6zq87X!#$>
       - name: Push to Docker Hub
         # Пуш образа в Docker Hub
         uses: docker/build-push-action@v2
